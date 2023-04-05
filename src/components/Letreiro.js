@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 function Letreiro (){
     const [texto, setTexto] = React.useState("");
     const [contador, setContador] = React.useState(0);
-    const mensagem = "Venha estudar na fatec!";
+    const mensagem = "Conheça a FATEC!";
 
     React.useEffect(() => {
       const intervalo = setInterval(() => {
