@@ -11,6 +11,7 @@ function TodoList() {
             <li>Rehearse a movie scene</li>
             <li>Improve the spectrum technology</li>
         </ul>
+         <Link to='/'>Voltar para a home</Link>
     </>
     );
 }
