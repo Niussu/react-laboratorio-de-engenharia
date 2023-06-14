@@ -1,0 +1,49 @@
+#main {
+    margin: auto;
+    width: 50%;
+    display: flex;
+    text-align: center;
+  }
+  #sub {
+    display: block;
+    margin: 50px;
+  }
+  
+  #sub2 {
+display: block;
+margin: 50px;
+  }
+  #sub3{
+    margin-left: 43%;
+  }
+  #limpar{
+    color: white;
+    background-color: #3e8e41;
+    border: none;
+    border-radius: 10px;
+    font-size: larger;
+  }
+  .verde{
+    background-color: #3e8e41;
+    font-size: xx-large;
+    border: none;
+    border-radius: 45%;
+    color: white;
+  }
+  .vermelho{
+    background-color: red;
+    font-size: x-large;
+    border: none;
+    border-radius: 45%;
+    color: white;
+    margin-left: 10px;
+  }
+  img{
+    width: 200px;
+  }
+  p{
+    font-size: x-large;
+  }
+  
+
+  

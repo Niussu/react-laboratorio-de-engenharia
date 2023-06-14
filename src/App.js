@@ -1,9 +1,10 @@
-import Relogio from "./components/Relogio";
-import Letreiro from "./components/Letreiro";
+import logo from './logo.svg';
+import MinhasRotas from './minhasRotas';
+
 function App() {
   return (
     <div className="App">
-      <Letreiro />
+      <MinhasRotas />
     </div>
   );
 }
